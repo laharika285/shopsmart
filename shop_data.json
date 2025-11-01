@@ -1,0 +1,20 @@
+[
+    {
+        "item": "Rice",
+        "price": 60.0,
+        "quantity": 5,
+        "total": 300.0
+    },
+    {
+        "item": "Milk",
+        "price": 50.0,
+        "quantity": 3,
+        "total": 150.0
+    },
+    {
+        "item": "Apples",
+        "price": 100.0,
+        "quantity": 2,
+        "total": 200.0
+    }
+]
